@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5c93c3f-b88f-4f3b-818e-cfbb9d10bcf5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m1/LSTM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/m1/LSTM.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/m2/CNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/m2/CNN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3/RNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/m3/RNN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m4/augmentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/m4/augmentation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6/autoencoder.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/m6/autoencoder.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +79,10 @@
       <workItem from="1739427918172" duration="1618000" />
       <workItem from="1739504540973" duration="1288000" />
       <workItem from="1739507462270" duration="1865000" />
-      <workItem from="1739594110701" duration="5051000" />
+      <workItem from="1739594110701" duration="7833000" />
+      <workItem from="1739853148146" duration="3017000" />
+      <workItem from="1740026384326" duration="2859000" />
+      <workItem from="1740118769310" duration="335000" />
     </task>
     <servers />
   </component>
