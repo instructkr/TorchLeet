@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../논문 리뷰/딥시크/native-sparse-attention-pytorch" vcs="Git" />
   </component>
 </project>

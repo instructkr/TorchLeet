@@ -5,18 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5c93c3f-b88f-4f3b-818e-cfbb9d10bcf5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hard_attention_methods/mha.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hard_attention_methods/sdpa.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m1/LSTM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/m1/LSTM.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2/CNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/m2/CNN.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3/RNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/m3/RNN.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m4/augmentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/m4/augmentation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m6/autoencoder.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/m6/autoencoder.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h1/custom-autgrad-function.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/h1/custom-autgrad-function.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/transformer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/h3/transformer.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/transformer_SOLN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/h3/transformer_SOLN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h5/seq-to-seq-with-Attention.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/h5/seq-to-seq-with-Attention.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h5/seq-to-seq-with-Attention_SOLN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/h5/seq-to-seq-with-Attention_SOLN.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,6 +37,7 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2suxM7a7hsNAU4VZ4NDekhfmbWx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,6 +58,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;hyperblaze&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/리서치/논문 리뷰/딥시크/native-sparse-attention-pytorch&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -83,6 +94,22 @@
       <workItem from="1739853148146" duration="3017000" />
       <workItem from="1740026384326" duration="2859000" />
       <workItem from="1740118769310" duration="335000" />
+      <workItem from="1740373469698" duration="2364000" />
+      <workItem from="1740378302061" duration="1517000" />
+      <workItem from="1740452527439" duration="2255000" />
+      <workItem from="1740634348620" duration="4572000" />
+      <workItem from="1740716981366" duration="971000" />
+      <workItem from="1740801354089" duration="8911000" />
+      <workItem from="1740811985506" duration="4825000" />
+      <workItem from="1741151106441" duration="2184000" />
+      <workItem from="1741243379622" duration="9150000" />
+      <workItem from="1741409868656" duration="3437000" />
+      <workItem from="1741836924967" duration="839000" />
+      <workItem from="1742281574764" duration="20707000" />
+      <workItem from="1742398046715" duration="408000" />
+      <workItem from="1742402985981" duration="9237000" />
+      <workItem from="1742523073999" duration="3090000" />
+      <workItem from="1742613185267" duration="1596000" />
     </task>
     <servers />
   </component>
