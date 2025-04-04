@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5c93c3f-b88f-4f3b-818e-cfbb9d10bcf5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/paper_replication/llama/llama2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paper_replication/llama/llama2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hard_attention_methods/mha.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hard_attention_methods/mha.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="b5c93c3f-b88f-4f3b-818e-cfbb9d10bcf5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,7 +107,7 @@
       <workItem from="1743488632000" duration="8905000" />
       <workItem from="1743598686462" duration="877000" />
       <workItem from="1743654259053" duration="4949000" />
-      <workItem from="1743735921608" duration="5268000" />
+      <workItem from="1743735921608" duration="5585000" />
     </task>
     <servers />
   </component>
