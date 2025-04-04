@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5c93c3f-b88f-4f3b-818e-cfbb9d10bcf5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hard_attention_methods/mha.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hard_attention_methods/sdpa.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paper_replication/llama/llama2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paper_replication/llama/llama2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h1/custom-autgrad-function.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/h1/custom-autgrad-function.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h3/transformer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/h3/transformer.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h3/transformer_SOLN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/h3/transformer_SOLN.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/seq-to-seq-with-Attention.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/h5/seq-to-seq-with-Attention.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/seq-to-seq-with-Attention_SOLN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/h5/seq-to-seq-with-Attention_SOLN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hard_attention_methods/mha.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hard_attention_methods/mha.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -42,32 +38,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ChatTagsLlmMigration&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.CodyAccountHistoryMigration&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.CodyAccountsIdsRefresh&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.CodyAssignOrphanedChatsToActiveAccount&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.CodyConvertUrlToCodebaseName&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.CodyHistoryLlmMigration&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.CodyMigrateChatHistory-v2&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.CodyProjectSettingsMigration&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.DeprecatedChatLlmMigration&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ToggleCodyToolWindowAfterMigration&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;hyperblaze&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/리서치/논문 리뷰/딥시크/native-sparse-attention-pytorch&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ChatTagsLlmMigration": "true",
+    "RunOnceActivity.CodyAccountHistoryMigration": "true",
+    "RunOnceActivity.CodyAccountsIdsRefresh": "true",
+    "RunOnceActivity.CodyAssignOrphanedChatsToActiveAccount": "true",
+    "RunOnceActivity.CodyConvertUrlToCodebaseName": "true",
+    "RunOnceActivity.CodyHistoryLlmMigration": "true",
+    "RunOnceActivity.CodyMigrateChatHistory-v2": "true",
+    "RunOnceActivity.CodyProjectSettingsMigration": "true",
+    "RunOnceActivity.DeprecatedChatLlmMigration": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.ToggleCodyToolWindowAfterMigration": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "hyperblaze",
+    "last_opened_file_path": "D:/리서치/논문 리뷰/딥시크/native-sparse-attention-pytorch",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -110,6 +106,13 @@
       <workItem from="1742402985981" duration="9237000" />
       <workItem from="1742523073999" duration="3090000" />
       <workItem from="1742613185267" duration="1596000" />
+      <workItem from="1742624482742" duration="3717000" />
+      <workItem from="1743255639353" duration="5379000" />
+      <workItem from="1743384425004" duration="1304000" />
+      <workItem from="1743488632000" duration="8905000" />
+      <workItem from="1743598686462" duration="877000" />
+      <workItem from="1743654259053" duration="4949000" />
+      <workItem from="1743735921608" duration="5268000" />
     </task>
     <servers />
   </component>
