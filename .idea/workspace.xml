@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5c93c3f-b88f-4f3b-818e-cfbb9d10bcf5" name="Changes" comment="" />
+    <list default="true" id="b5c93c3f-b88f-4f3b-818e-cfbb9d10bcf5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/paper_replication/RoPE/llama2_rope.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paper_replication/RoPE/rope.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -28,7 +32,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2suxM7a7hsNAU4VZ4NDekhfmbWx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,7 +55,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "hyperblaze",
-    "last_opened_file_path": "D:/리서치/논문 리뷰/딥시크/native-sparse-attention-pytorch",
+    "last_opened_file_path": "D:/리서치/스터디 리드/TorchLeet/paper_replication/RoPE",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,6 +65,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\리서치\스터디 리드\TorchLeet\paper_replication\RoPE" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -107,7 +118,11 @@
       <workItem from="1743488632000" duration="8905000" />
       <workItem from="1743598686462" duration="877000" />
       <workItem from="1743654259053" duration="4949000" />
-      <workItem from="1743735921608" duration="5585000" />
+      <workItem from="1743735921608" duration="7110000" />
+      <workItem from="1744172641521" duration="1298000" />
+      <workItem from="1744462821463" duration="12206000" />
+      <workItem from="1744778891320" duration="8474000" />
+      <workItem from="1744947015116" duration="18900000" />
     </task>
     <servers />
   </component>
