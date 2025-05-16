@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5c93c3f-b88f-4f3b-818e-cfbb9d10bcf5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/paper_replication/RoPE/llama2_rope.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paper_replication/RoPE/rope.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paper_replication/RoPE/test.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paper_replication/block-diffusion-transformer/bd3ms.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paper_replication/block-diffusion-transformer/ddpm.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,32 +40,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ChatTagsLlmMigration": "true",
-    "RunOnceActivity.CodyAccountHistoryMigration": "true",
-    "RunOnceActivity.CodyAccountsIdsRefresh": "true",
-    "RunOnceActivity.CodyAssignOrphanedChatsToActiveAccount": "true",
-    "RunOnceActivity.CodyConvertUrlToCodebaseName": "true",
-    "RunOnceActivity.CodyHistoryLlmMigration": "true",
-    "RunOnceActivity.CodyMigrateChatHistory-v2": "true",
-    "RunOnceActivity.CodyProjectSettingsMigration": "true",
-    "RunOnceActivity.DeprecatedChatLlmMigration": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.ToggleCodyToolWindowAfterMigration": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "hyperblaze",
-    "last_opened_file_path": "D:/리서치/스터디 리드/TorchLeet/paper_replication/RoPE",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ChatTagsLlmMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyAccountHistoryMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyAccountsIdsRefresh&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyAssignOrphanedChatsToActiveAccount&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyConvertUrlToCodebaseName&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyHistoryLlmMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyMigrateChatHistory-v2&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyProjectSettingsMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.DeprecatedChatLlmMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ToggleCodyToolWindowAfterMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;hyperblaze&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/리서치/스터디 리드/TorchLeet&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\리서치\스터디 리드\TorchLeet\paper_replication\RoPE" />
@@ -122,7 +123,22 @@
       <workItem from="1744172641521" duration="1298000" />
       <workItem from="1744462821463" duration="12206000" />
       <workItem from="1744778891320" duration="8474000" />
-      <workItem from="1744947015116" duration="18900000" />
+      <workItem from="1744947015116" duration="20828000" />
+      <workItem from="1746160594224" duration="2541000" />
+      <workItem from="1746245273769" duration="2655000" />
+      <workItem from="1746412209290" duration="2873000" />
+      <workItem from="1746675472133" duration="18610000" />
+      <workItem from="1746848846110" duration="1275000" />
+      <workItem from="1746854349341" duration="303000" />
+      <workItem from="1746854666338" duration="192000" />
+      <workItem from="1746854868410" duration="195000" />
+      <workItem from="1746855073902" duration="3431000" />
+      <workItem from="1746887522475" duration="12647000" />
+      <workItem from="1746916746003" duration="7073000" />
+      <workItem from="1747146836127" duration="1714000" />
+      <workItem from="1747194802957" duration="10258000" />
+      <workItem from="1747235671837" duration="4400000" />
+      <workItem from="1747349239818" duration="2701000" />
     </task>
     <servers />
   </component>
