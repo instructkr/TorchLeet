@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5c93c3f-b88f-4f3b-818e-cfbb9d10bcf5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/paper_replication/block-diffusion-transformer/d3pm.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paper_replication/block-diffusion-transformer/ddpm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paper_replication/block-diffusion-transformer/dit.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paper_replication/block-diffusion-transformer/unet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.sourcegraph/cody_settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.sourcegraph/cody_settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paper_replication/block-diffusion-transformer/bd3lms.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/paper_replication/block-diffusion-transformer/ddpm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/paper_replication/block-diffusion-transformer/ddpm.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper_replication/block-diffusion-transformer/bd3ms.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/JAX/pseudorandom.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper_replication/block-diffusion-transformer/d3pm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/paper_replication/block-diffusion-transformer/d3pm.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper_replication/block-diffusion-transformer/dit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/paper_replication/block-diffusion-transformer/dit.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +30,9 @@
   </component>
   <component name="LLMProjectSettings">
     <option name="turned_on" value="false" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -60,18 +62,19 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;hyperblaze&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/wryta&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/리서치/스터디 리드/TorchLeet/paper_replication/block-diffusion-transformer&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.jupyter.core.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\리서치\스터디 리드\TorchLeet\paper_replication\block-diffusion-transformer" />
       <recent name="D:\리서치\스터디 리드\TorchLeet\paper_replication\RoPE" />
     </key>
   </component>
@@ -147,7 +150,40 @@
       <workItem from="1747752564466" duration="1147000" />
       <workItem from="1747976924717" duration="7120000" />
       <workItem from="1748228448037" duration="10589000" />
-      <workItem from="1748581276766" duration="14961000" />
+      <workItem from="1748581276766" duration="17936000" />
+      <workItem from="1748922768077" duration="1053000" />
+      <workItem from="1748928260564" duration="5134000" />
+      <workItem from="1748935906323" duration="821000" />
+      <workItem from="1748936792722" duration="1753000" />
+      <workItem from="1748962900604" duration="3000000" />
+      <workItem from="1749014250118" duration="2129000" />
+      <workItem from="1749018604214" duration="1154000" />
+      <workItem from="1749046940027" duration="1074000" />
+      <workItem from="1749048733042" duration="1830000" />
+      <workItem from="1749096059852" duration="2231000" />
+      <workItem from="1749098435740" duration="323000" />
+      <workItem from="1749098794739" duration="20000" />
+      <workItem from="1749098866257" duration="39000" />
+      <workItem from="1749098926696" duration="45000" />
+      <workItem from="1749099694102" duration="180000" />
+      <workItem from="1749301259778" duration="9096000" />
+      <workItem from="1749393761016" duration="817000" />
+      <workItem from="1749394699295" duration="1673000" />
+      <workItem from="1749413620016" duration="3696000" />
+      <workItem from="1749528728481" duration="1961000" />
+      <workItem from="1749540373200" duration="543000" />
+      <workItem from="1749566342945" duration="1847000" />
+      <workItem from="1749792102449" duration="3754000" />
+      <workItem from="1749869418538" duration="7385000" />
+      <workItem from="1749880114420" duration="2650000" />
+      <workItem from="1749905914278" duration="5222000" />
+      <workItem from="1750880841325" duration="7249000" />
+      <workItem from="1750953438665" duration="25211000" />
+      <workItem from="1751045996796" duration="761000" />
+      <workItem from="1751046848632" duration="4618000" />
+      <workItem from="1751052800787" duration="2282000" />
+      <workItem from="1751073918713" duration="13772000" />
+      <workItem from="1751113495926" duration="5227000" />
     </task>
     <servers />
   </component>
